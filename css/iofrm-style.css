@@ -92,54 +92,6 @@ body {
   opacity: 0 !important;
 }
 
-.preview-body {
-  padding-top: 70px;
-  padding-bottom: 70px;
-  text-align: center;
-}
-
-.preview-body .web-logo {
-  margin-bottom: 50px;
-}
-
-.preview-body .web-logo img {
-  width: 130px;
-}
-
-.preview-body .web-title {
-  font-size: 30px;
-  font-weight: 300;
-  color: #000;
-  line-height: 35px;
-  margin-bottom: 50px;
-}
-
-.preview-body .img-link {
-  display: inline-block;
-  width: 100%;
-  margin: 20px 0;
-  padding: 0 5px;
-}
-
-.preview-body .img-link img {
-  width: 100%;
-  border-radius: 15px;
-  -webkit-box-shadow: 0 0 5px rgba(160, 163, 165, 0.38);
-  box-shadow: 0 0 5px rgba(160, 163, 165, 0.38);
-  -webkit-transition: all 0.5s cubic-bezier(0.34, 1.61, 0.7, 1);
-  transition: all 0.5s cubic-bezier(0.34, 1.61, 0.7, 1);
-}
-
-.preview-body .img-link:hover img,
-.preview-body .img-link:focus img {
-  -webkit-transform: scale(1.05);
-  -moz-transform: scale(1.05);
-  -ms-transform: scale(1.05);
-  transform: scale(1.05);
-  -webkit-box-shadow: 0 11px 19px rgba(160, 163, 165, 0.3);
-  box-shadow: 0 11px 19px rgba(160, 163, 165, 0.3);
-}
-
 .img-holder {
   display: inline-block;
   position: absolute;
